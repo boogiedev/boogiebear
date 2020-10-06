@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1000 1000">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="5"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="left_eye" vectornator:layerName="left_eye">
+<path stroke="#060606" stroke-opacity="0" stroke-width="50.18" d="M425.123+472.549C425.123+466.375+427.612+461.37+430.683+461.37C433.753+461.37+436.242+466.375+436.242+472.549C436.242+478.723+433.753+483.728+430.683+483.728C427.612+483.728+425.123+478.723+425.123+472.549Z" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="3.01" d="M416.997+472C416.997+459.956+423.411+450.193+431.322+450.193C439.234+450.193+445.647+459.956+445.647+472C445.647+484.043+439.234+493.806+431.322+493.806C423.411+493.806+416.997+484.043+416.997+472Z" fill="#020202" stroke-linecap="round" fill-opacity="0" opacity="1" stroke-linejoin="round"/>
+<path stroke="#060606" stroke-opacity="0" stroke-width="50.18" d="M558.702+405.944C558.517+405.144+558.928+403.965+558.229+403.491C511.772+378.1+455.136+380.08+404.697+389.902C398.698+391.864+392.993+394.687+387.711+398.135C385.864+398.516+387.786+402.553+389.184+401.584C394.768+398.014+400.807+395.11+407.19+393.289C456.407+385.851+510.907+383.311+556.43+406.923C557.19+407.156+557.975+406.267+558.702+405.944" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#060606" stroke-opacity="0" stroke-width="50.18" d="M367.066+442.723C366.343+443.128+364.952+442.98+365.029+444.054C351.408+480.777+357.175+520.451+354.493+558.702C354.49+558.781+354.486+558.86+354.483+558.939C355.715+559.008+356.948+559.076+358.181+559.145C362.142+521.145+356.825+481.874+368.807+445.041C369.459+443.621+368.104+443.187+367.066+442.723" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M386.423+394.202C389.189+394.108+388.432+391.195+387.352+389.561C385.913+387.215+384.39+384.743+382.09+383.149C349.158+369.06+326.271+432.31+358.983+443.529C359.562+442.437+360.14+441.345+360.719+440.252C360.621+440.199+360.522+440.145+360.424+440.092C356.09+437.769+351.002+435.662+348.815+430.904C344.49+411.996+355.996+379.399+380.142+386.862C383.23+388.58+383.331+393.243+386.423+394.202" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M560.229+398.592C557.465+398.724+557.981+395.76+558.924+394.042C560.168+391.587+561.484+388.999+563.646+387.223C595.317+370.492+623.292+431.662+591.605+445.515C590.939+444.473+590.273+443.432+589.608+442.39C589.701+442.329+589.795+442.268+589.888+442.206C594.018+439.537+598.917+437.022+600.708+432.102C603.475+412.904+589.346+381.355+565.89+390.764C562.953+392.729+563.232+397.384+560.229+398.592" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#060606" stroke-opacity="0" stroke-width="50.18" d="M581.993+442.899C582.715+443.304+584.107+443.156+584.03+444.23C597.651+480.953+591.884+520.627+594.566+558.878C594.569+558.957+594.573+559.036+594.576+559.115C593.344+559.184+592.111+559.252+590.878+559.321C586.917+521.321+592.234+482.05+580.252+445.217C579.6+443.797+580.955+443.363+581.993+442.899" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M379.912+406.168C380.547+405.956+381.41+405.95+381.718+405.255C380.879+394.941+364.754+391.237+358.581+398.759C355.152+402.222+359.445+411.689+363.731+406.229C360.888+404.431+360.484+401.689+364.329+400.108C370.842+398.433+376.356+402.156+379.912+406.168" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M361.963+405.992C355.739+399.24+347.445+414.596+352.307+420.831C356.814+426.816+364.992+423.305+371.29+423.704C371.29+422.455+371.29+421.205+371.29+419.955C371.253+419.954+371.217+419.953+371.181+419.952C366.494+419.326+361.052+421.027+356.858+418.49C354.861+414.642+356.112+407.679+361.415+407.707C361.847+407.249+361.819+406.573+361.963+405.992" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M567.325+414.791C567.943+414.629+568.717+414.742+569.156+414.208C569.867+408.352+574.222+402.584+579.204+399.732C582.89+400.424+582.206+406.723+582.183+409.661C583.225+409.032+580.862+409.923+580.293+409.974C580.564+411.191+580.834+412.408+581.105+413.625C589.168+412.948+587.002+401.179+583.877+396.416C574.128+390.246+565.657+405.74+565.483+413.892C565.78+414.608+566.685+414.575+567.325+414.791" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="3.01" d="M583.515+410.743C583.709+411.418+583.631+412.477+584.482+412.66C599.499+409.178+586.413+434.112+577.036+425.762C576.311+426.778+575.585+427.793+574.86+428.808C574.862+428.81+574.864+428.811+574.866+428.813C582.123+434.687+592.888+429.128+595.793+421.085C599.877+413.059+588.834+403.159+583.515+410.743" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="right_eye" vectornator:layerName="right_eye">
+<path stroke="#000000" stroke-width="3.01" d="M510.05+472.217C510.05+460.114+516.47+450.302+524.389+450.302C532.308+450.302+538.728+460.114+538.728+472.217C538.728+484.32+532.308+494.131+524.389+494.131C516.47+494.131+510.05+484.32+510.05+472.217Z" fill="#020202" stroke-linecap="round" fill-opacity="0" opacity="1" stroke-linejoin="round"/>
+<path stroke="#060606" stroke-opacity="0" stroke-width="50.18" d="M517.178+472.15C517.178+465.976+519.667+460.971+522.737+460.971C525.808+460.971+528.297+465.976+528.297+472.15C528.297+478.324+525.808+483.329+522.737+483.329C519.667+483.329+517.178+478.324+517.178+472.15Z" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="mouth" vectornator:layerName="mouth">
+<path stroke="#000000" stroke-width="1.46" d="M468.302+499.369C468.302+496.123+471.581+493.492+475.625+493.492C479.67+493.492+482.948+496.123+482.948+499.369C482.948+502.614+479.67+505.245+475.625+505.245C471.581+505.245+468.302+502.614+468.302+499.369Z" fill="#020202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="5" d="M475.515+502.868L475.696+518.641" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="5" d="M475.272+520.121L457.447+526.618" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="5" d="M475.668+520.148L498.668+529.377" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="1.33" d="M453.368+443.61C453.159+442.356+453.38+440.909+452.587+439.844C442.612+437.864+434.194+430.546+426.697+423.962C426.683+423.947+426.669+423.932+426.655+423.917C424.815+425.756+422.975+427.596+421.136+429.435C430.325+436.939+440.182+447.023+452.561+447.516C453.403+446.435+453.175+444.909+453.368+443.61" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="1.33" d="M498.345+444.695C498.555+443.441+498.333+441.994+499.126+440.929C509.101+438.949+517.519+431.631+525.016+425.047C525.03+425.032+525.044+425.017+525.058+425.002C526.898+426.841+528.738+428.681+530.578+430.52C521.388+438.024+511.531+448.108+499.153+448.6C498.31+447.52+498.538+445.994+498.345+444.695" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="cheeks" vectornator:layerName="cheeks">
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.4" d="M529.427+507.149C529.427+502.948+534.678+499.542+541.155+499.542C547.633+499.542+552.883+502.948+552.883+507.149C552.883+511.35+547.633+514.756+541.155+514.756C534.678+514.756+529.427+511.35+529.427+507.149Z" fill="#e16994" stroke-linecap="round" fill-opacity="0.798673" opacity="0.6" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-opacity="0" stroke-width="0.4" d="M396.556+505.636C396.556+501.434+401.807+498.028+408.284+498.028C414.761+498.028+420.012+501.434+420.012+505.636C420.012+509.837+414.761+513.243+408.284+513.243C401.807+513.243+396.556+509.837+396.556+505.636Z" fill="#e16994" stroke-linecap="round" fill-opacity="0.798673" opacity="0.6" stroke-linejoin="round"/>
+</g>
+</svg>
