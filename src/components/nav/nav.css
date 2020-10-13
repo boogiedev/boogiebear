@@ -1,0 +1,13 @@
+.Nav {
+  color: white;
+  text-align: left;
+}
+
+.navbar {
+  list-style: none;
+}
+
+.navbar li {
+  color: inherit;
+  text-decoration: none;
+}

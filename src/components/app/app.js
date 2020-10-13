@@ -1,7 +1,10 @@
 import React from 'react';
 import './app.css';
+import Nav from '../nav/nav.js';
 
 class App extends React.Component {
+  // Custom functions
+
 
   // fake authentication Promise
   // Set up new auth later for app
@@ -18,7 +21,7 @@ class App extends React.Component {
         setTimeout(() => {
           // remove from DOM
           ele.outerHTML = ''
-        }, 2000)
+        }, 1000)
       }
     })
   }
@@ -27,7 +30,7 @@ class App extends React.Component {
     return (
     <div className="App">
       <div id="app_background">
-        <h1> yall doodoo </h1>
+        <Nav />
       </div>
     </div>
   );
